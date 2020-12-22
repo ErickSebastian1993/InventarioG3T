@@ -1,0 +1,271 @@
+[33mcommit ddd6db5a1f4aa4e03e9bca6008f19463eca5c5b7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 5776412 7b92136
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Tue Dec 22 12:15:31 2020 -0500
+
+    Merge branch 'master' of https://github.com/ErickSebastian1993/Inventario-Grupo-T
+
+[33mcommit 7b92136a87b254cb726e3e8f8148e76f1aec9c44[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 12:13:20 2020 -0500
+
+    Minor change
+
+[33mcommit 7370183ec8afad3d5bbe512faee8454603f8da35[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 12:06:04 2020 -0500
+
+    Roles
+
+[33mcommit 5776412920f8ca783c45caa126808419585afb0a[m
+Merge: f4652c7 efde6a4
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Tue Dec 22 09:18:15 2020 -0500
+
+    Merge branch 'master' of https://github.com/ErickSebastian1993/Inventario-Grupo-T
+
+[33mcommit efde6a4059a5227ff1be3c22f529c3c3e747a122[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 08:17:33 2020 -0500
+
+    Add info of users for testing purpose in readme
+
+[33mcommit f4652c73cb2728df91ef144d23cb40b0c645dca6[m
+Merge: d1289cf a5c133a
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Tue Dec 22 08:16:44 2020 -0500
+
+    Merge branch 'master' of https://github.com/ErickSebastian1993/Inventario-Grupo-T
+
+[33mcommit d1289cf9eb773b2acd90948954dc64f15a742879[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Tue Dec 22 08:15:06 2020 -0500
+
+    BD
+
+[33mcommit a5c133a972523216e0f0f953797c4cf937963588[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 07:42:56 2020 -0500
+
+    Minor fix
+
+[33mcommit 5f5b4d5c32c86ee5da55eb855cfe39d79e39c74d[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 07:34:30 2020 -0500
+
+    Checkbox to show all the products and state
+
+[33mcommit 294fdcbee87c0346519d828a9987355c239575a3[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 05:42:08 2020 -0500
+
+    Improve message email
+
+[33mcommit b48dd157cfbc1b42ad0e282a1848747d6a6f071a[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 05:25:27 2020 -0500
+
+    Little change to email in login
+
+[33mcommit a3f8f0eee7c7708bcc447b9e132fc6801f5cd8b6[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Tue Dec 22 05:09:27 2020 -0500
+
+    Password secure
+
+[33mcommit 4fde4960aae92d5bfb849d992259d05c0ac51af4[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Mon Dec 21 18:58:11 2020 -0500
+
+    Update requirements
+
+[33mcommit 3e6d45d309e12f878b2029454ca9f9ceff672063[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Mon Dec 21 16:35:31 2020 -0500
+
+    Recuperar contraseña
+
+[33mcommit 6bd6739e7509b9d29da96fdf741bcb6c8a86817b[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Mon Dec 21 08:36:42 2020 -0500
+
+    Estado full
+
+[33mcommit fe8c72001b74569ee8c628a80f108ba0615a5ab5[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Mon Dec 21 07:19:46 2020 -0500
+
+    Allowing only jpg,png,jpe and jpeg format on images
+
+[33mcommit 289abdcbb9bb9c4d66f22641f0a6e32c5d53f95d[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Mon Dec 21 06:53:59 2020 -0500
+
+    Nuevo producto estado
+
+[33mcommit 6833fb8aa2b14ae70e9c6d073574b4a9fb3d0ca0[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sun Dec 20 23:57:07 2020 -0500
+
+    Sesion OK
+
+[33mcommit 912a3c0bba950f8d742f6cdd3423629470c070fd[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sun Dec 20 22:25:30 2020 -0500
+
+    Ajuste en BD y Sesion app
+
+[33mcommit 1a9f25469ea24f7d6c2ad9a662bda5b916578f27[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 23:10:53 2020 -0500
+
+    Default product image
+
+[33mcommit e42e7d0700e9a5215b1f6d335c181915ce05ec8d[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 22:45:54 2020 -0500
+
+    Fixed replace image product and fixed some sql injection problems
+
+[33mcommit ff27485e961528b91c650114ff28cb667041f707[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 20:18:51 2020 -0500
+
+    Update requirements
+
+[33mcommit 7982306fcb5419f8f8359e759570ce997a90db8a[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 20:16:17 2020 -0500
+
+    Imagenes done
+
+[33mcommit 7575fd9827f9d83784780838670e4c46f0739912[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 17:02:32 2020 -0500
+
+    Chande disable to readonly
+
+[33mcommit b7c514e9bfc9970d525e47908865c03f1ea888e7[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 16:23:17 2020 -0500
+
+    Eleccion para editar en modal
+
+[33mcommit 9f3329f62654a7f96d81e8ea7287e0ce48f84b94[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 14:54:05 2020 -0500
+
+    Validacion de log in por DB y SQL no injection
+
+[33mcommit 6200f2ff16cb989511c94063a29e9191ff484eae[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 12:56:32 2020 -0500
+
+    Querys de insert producto, usuario y actualizar usuario
+
+[33mcommit 90c430e9c4a2b3ace2e173f331b9e86f1fc90bc5[m
+Merge: fc1c6ba c66fc1e
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 11:24:10 2020 -0500
+
+    Merge branch 'master' of https://github.com/ErickSebastian1993/Inventario-Grupo-T
+
+[33mcommit c66fc1ecb1b2968ee96a3ea50f81d776fb588c84[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 10:59:16 2020 -0500
+
+    Minor fix
+
+[33mcommit ec64fa1e0a43a64cc71c5148fcc1edf8f11a5a8b[m
+Merge: 0dc660f 70d5fb3
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 10:53:22 2020 -0500
+
+    Merge
+
+[33mcommit fc1c6ba54ce8362bdcf9006845870e9f463b1844[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 10:50:08 2020 -0500
+
+    BD
+
+[33mcommit 0dc660fed509156a168975f3543dbf201e19c3dd[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 10:49:13 2020 -0500
+
+    Crear producto
+
+[33mcommit 70d5fb34cf9a1e8d1e636c51ee4e7cd6cec07aec[m
+Merge: cc0a645 1d7bb72
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 09:23:48 2020 -0500
+
+    Merge branch 'master' of https://github.com/ErickSebastian1993/Inventario-Grupo-T
+
+[33mcommit cc0a64598b61af96d7efd14a8e2888a442c6ef52[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 09:21:02 2020 -0500
+
+    Revision insert y actualiza db
+
+[33mcommit 1d7bb729b89f114a150589b8d78d843be9cf8f81[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Sat Dec 19 09:11:09 2020 -0500
+
+    Fixed card
+
+[33mcommit 0ffadd93458d71cb87bd2af3d1b0f983a3e797b5[m
+Author: Sebastian <sebastianpuentes@uninorte.edu.co>
+Date:   Sat Dec 19 00:06:20 2020 -0500
+
+    Se agregan funciones de base de datos
+
+[33mcommit ac0d6c6599a6d34f4b9f0a2547270d2c9c242d6c[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Fri Dec 18 19:59:26 2020 -0500
+
+    Validacion de formularios full y arreglando cosas varias
+
+[33mcommit 8498cd29f63140c4e2459e6b1b112aeba2d14ff9[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Thu Dec 17 20:37:57 2020 -0500
+
+    Some changes
+
+[33mcommit 884369a59103a92186e93146dba0c5ef7b5c8319[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Thu Dec 17 20:33:55 2020 -0500
+
+    CHanges
+
+[33mcommit 695cf34f6792e0961d19b7ab8283dda7c692ea9d[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Thu Dec 17 17:36:03 2020 -0500
+
+    Validacion formulario usuario
+
+[33mcommit b85ed471a44a01125db7dd5fba63d99482543040[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Thu Dec 17 12:44:36 2020 -0500
+
+    Recover validation
+
+[33mcommit a73fc69e673f6b8c0124c4db67277dd9ccd13480[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Thu Dec 17 11:56:15 2020 -0500
+
+    Validation form
+
+[33mcommit 616e959f9e231dd78c3d8b86f913c7ec062acf13[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Wed Dec 16 19:27:23 2020 -0500
+
+    Improve for executing
+
+[33mcommit 1deda1b9a39d3b4f0e4c8dab79cc689a1684dd62[m
+Author: Andres Roman <faroman@uninorte.edu.co>
+Date:   Wed Dec 16 16:40:39 2020 -0500
+
+    Adaptando pagina a flask
+
+[33mcommit b3aff9ac6253
